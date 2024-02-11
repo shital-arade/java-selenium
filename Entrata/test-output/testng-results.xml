@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-11T10:28:02Z" name="Suite" finished-at="2024-02-11T10:29:39Z" duration-ms="96774">
+    <groups>
+    </groups>
+    <test started-at="2024-02-11T10:28:02Z" name="Test" finished-at="2024-02-11T10:29:39Z" duration-ms="96774">
+      <class name="entrataTests.MainPage">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:entrataTests.MainPage@ab7395e]" started-at="2024-02-11T10:28:02Z" name="openBrowser" finished-at="2024-02-11T10:28:11Z" duration-ms="8680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="VerifyTitle()[pri:0, instance:entrataTests.MainPage@ab7395e]" started-at="2024-02-11T10:28:11Z" name="VerifyTitle" finished-at="2024-02-11T10:29:27Z" duration-ms="75945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method signature="OpenMenus()[pri:1, instance:entrataTests.MainPage@ab7395e]" started-at="2024-02-11T10:29:27Z" name="OpenMenus" finished-at="2024-02-11T10:29:34Z" duration-ms="7386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenMenus -->
+        <test-method signature="TakeScreenShot()[pri:2, instance:entrataTests.MainPage@ab7395e]" started-at="2024-02-11T10:29:34Z" name="TakeScreenShot" finished-at="2024-02-11T10:29:35Z" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenShot -->
+        <test-method is-config="true" signature="DriverClose()[pri:0, instance:entrataTests.MainPage@ab7395e]" started-at="2024-02-11T10:29:35Z" name="DriverClose" finished-at="2024-02-11T10:29:39Z" duration-ms="3895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- entrataTests.MainPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
